@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oqIpULk1XGx+kA1dLDhp/spl0S8FxkypA6Y8g+it/MdSpg4xZG3cKfQYq4aKjhRZ+D+JRsz5VM6UF7JQBAaB7Q==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\aspnet-core-docker-demo-master\\Application\\aspnet-core-dotnet-core\\aspnet-core-dotnet-core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sk4re\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}

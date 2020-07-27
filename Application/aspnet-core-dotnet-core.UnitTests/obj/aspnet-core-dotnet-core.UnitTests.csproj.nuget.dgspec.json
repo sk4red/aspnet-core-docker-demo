@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Code\\aspnet-core-docker-demo-master\\Application\\aspnet-core-dotnet-core.UnitTests\\aspnet-core-dotnet-core.UnitTests.csproj": {}
+  },
+  "projects": {
+    "D:\\Code\\aspnet-core-docker-demo-master\\Application\\aspnet-core-dotnet-core.UnitTests\\aspnet-core-dotnet-core.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\aspnet-core-docker-demo-master\\Application\\aspnet-core-dotnet-core.UnitTests\\aspnet-core-dotnet-core.UnitTests.csproj",
+        "projectName": "aspnet-core-dotnet-core.UnitTests",
+        "projectPath": "D:\\Code\\aspnet-core-docker-demo-master\\Application\\aspnet-core-dotnet-core.UnitTests\\aspnet-core-dotnet-core.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\sk4re\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\aspnet-core-docker-demo-master\\Application\\aspnet-core-dotnet-core.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sk4re\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Code\\aspnet-core-docker-demo-master\\Application\\aspnet-core-dotnet-core\\aspnet-core-dotnet-core.csproj": {
+                "projectPath": "D:\\Code\\aspnet-core-docker-demo-master\\Application\\aspnet-core-dotnet-core\\aspnet-core-dotnet-core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Code\\aspnet-core-docker-demo-master\\Application\\aspnet-core-dotnet-core\\aspnet-core-dotnet-core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\aspnet-core-docker-demo-master\\Application\\aspnet-core-dotnet-core\\aspnet-core-dotnet-core.csproj",
+        "projectName": "aspnet-core-dotnet-core",
+        "projectPath": "D:\\Code\\aspnet-core-docker-demo-master\\Application\\aspnet-core-dotnet-core\\aspnet-core-dotnet-core.csproj",
+        "packagesPath": "C:\\Users\\sk4re\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\aspnet-core-docker-demo-master\\Application\\aspnet-core-dotnet-core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sk4re\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
